@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="&quot;{value}&quot; рублей" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="XFA/NodesIconTweak" export_version="2">
+  <phrase title="option.xfa_nit_defaultIconSize" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Размер иконки по умолчанию]]></phrase>
+  <phrase title="option.xfa_nit_defaultSmallIconSize" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Размер маленькой иконки по умолчанию]]></phrase>
+  <phrase title="option.xfa_nit_iconSizeACP" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[ACP размер иконки]]></phrase>
+  <phrase title="option.xfa_nit_separateSrvIcons" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Отдельные иконки небольших/обычных серверов]]></phrase>
+  <phrase title="option.xfa_nit_showIconsInACP" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Показать иконки в ACP]]></phrase>
+  <phrase title="option_explain.xfa_nit_defaultIconSize" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Установите размер иконки по умолчанию, который будет использоваться. <br />
+Этот размер будет использоваться в случае, если размер иконки набора равен 0 в узле, чтобы иконка не отображалась.]]></phrase>
+  <phrase title="option_explain.xfa_nit_defaultSmallIconSize" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Установите минимальный размер иконки по умолчанию, который будет использоваться. <br />
+Этот размер будет использоваться в случае, если размер иконки набора равен 0 в узле, чтобы иконка не отображалась.]]></phrase>
+  <phrase title="option_explain.xfa_nit_iconSizeACP" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Задайте размер иконок в дереве узлов ACP. <br />
+Обратите внимание, что он не изменит размер изображения спрайтов, если таковой имеется.]]></phrase>
+  <phrase title="option_explain.xfa_nit_separateSrvIcons" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Если вы установите для этого параметра значение «да», маленькие иконки будут извлекаться из данных /xfa/nodesicontweak/icons-small вместо данных /xfa/nodesicontweak/icons, что позволит вам сортировать иконки для обеих целей в двух папках.]]></phrase>
+  <phrase title="option_explain.xfa_nit_showIconsInACP" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Установите этот параметр в положение «да», если вы хотите, чтобы иконки отображались в дереве узлов ACP.]]></phrase>
+  <phrase title="option_group.xfa_nit" addon_id="XFA/NodesIconTweak" version_id="903000090" version_string="3.0.0 Beta 1"><![CDATA[[XFA] Nodes Icon Tweak]]></phrase>
+  <phrase title="option_group_description.xfa_nit" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Конфигурация дополнений к иконкам узлов Node от Xen Factory]]></phrase>
+  <phrase title="xfa_nit_flip_horizontally" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Отразить по горизонтали]]></phrase>
+  <phrase title="xfa_nit_flip_vertically" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Отразить по вертикали
+]]></phrase>
+  <phrase title="xfa_nit_icon" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Иконка]]></phrase>
+  <phrase title="xfa_nit_icon_preview" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Предварительный просмотр иконки]]></phrase>
+  <phrase title="xfa_nit_icon_read" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Иконка прочитанной темы]]></phrase>
+  <phrase title="xfa_nit_icon_unread" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Иконка не прочитанной темы]]></phrase>
+  <phrase title="xfa_nit_lower_layer" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Нижний слой
+]]></phrase>
+  <phrase title="xfa_nit_lower_layer_animate" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Облик нижнего слоя]]></phrase>
+  <phrase title="xfa_nit_lower_layer_color" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Цвет нижнего слоя]]></phrase>
+  <phrase title="xfa_nit_lower_layer_transform" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Преобразование нижнего слоя]]></phrase>
+  <phrase title="xfa_nit_no_animation" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Без анимации
+]]></phrase>
+  <phrase title="xfa_nit_no_icons_on_server" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[На сервере нет иконок]]></phrase>
+  <phrase title="xfa_nit_no_transformation" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Без преобразования]]></phrase>
+  <phrase title="xfa_nit_nodes_icons_tweak" addon_id="XFA/NodesIconTweak" version_id="903000090" version_string="3.0.0 Beta 1"><![CDATA[Nodes Icon Tweak
+]]></phrase>
+  <phrase title="xfa_nit_nodes_icons_tweak_explain" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Убедитесь, что при установке размера иконки размер набора соответствует ширине стиля nodeIcon css (по умолчанию xF 36px). <br /> <br />
+Для «Категории» и «Форум», если вы не введете «Непрочитанный» иконку, тогда будет отображаться «Чтение», будь то новые сообщения или нет.]]></phrase>
+  <phrase title="xfa_nit_position" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Позиция
+]]></phrase>
+  <phrase title="xfa_nit_pulse" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Пульс]]></phrase>
+  <phrase title="xfa_nit_rotate_180" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Поворот 180&deg;
+]]></phrase>
+  <phrase title="xfa_nit_rotate_270" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Поворот 270&deg;
+]]></phrase>
+  <phrase title="xfa_nit_rotate_90" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Поворот 90&deg;
+]]></phrase>
+  <phrase title="xfa_nit_select_icon" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Выбрать иконку]]></phrase>
+  <phrase title="xfa_nit_select_server_icon" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Выбрать иконку сервера
+]]></phrase>
+  <phrase title="xfa_nit_select_small_server_icon" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Выбрать маленькую иконку сервера
+]]></phrase>
+  <phrase title="xfa_nit_server_icons_explain" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Иконки сервера загружаются из папки данных (или другого имени, если вы ее переименовали) вашей установки xF. <br /> Иконки должны быть расположены в подкаталоге xfa/nodesicontweak/icons.]]></phrase>
+  <phrase title="xfa_nit_size" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Размер
+]]></phrase>
+  <phrase title="xfa_nit_size_explain" addon_id="XFA/NodesIconTweak" version_id="903000090" version_string="3.0.0 Beta 1"><![CDATA[If you use both up and down layer, set the size to half your expected size as the stacking multiply the down layer size by 2.
+]]></phrase>
+  <phrase title="xfa_nit_small_icon_preview" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Предварительный просмотр маленьких иконок
+]]></phrase>
+  <phrase title="xfa_nit_small_size" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Маленький размер]]></phrase>
+  <phrase title="xfa_nit_small_size_explain" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Этот размер соответствует иконке, отображаемому рядом с названием узла, если отображается (т.е. не в всплывающем, свойство стиля «Показывать всплывающие окна» отключено). <br /> Если вы используете слой вверх и вниз, задайте размер половину вашего ожидаемого размера, поскольку укладка умножает размер нижнего слоя на 2.]]></phrase>
+  <phrase title="xfa_nit_spin" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Вращение]]></phrase>
+  <phrase title="xfa_nit_sprite_coordinates" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Координаты]]></phrase>
+  <phrase title="xfa_nit_sprite_url" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Спрайт URL
+]]></phrase>
+  <phrase title="xfa_nit_sprite_url_explain" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Файл спрайта должен быть расположен в директории вашего форума, введите в это поле URL-адрес относительно вашего базового URL-адреса форума. например. : styles/default/xenforo/node-sprite.png, если я хотел бы получить спрайты xenforo.]]></phrase>
+  <phrase title="xfa_nit_type_to_filter" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Тип фильтра
+]]></phrase>
+  <phrase title="xfa_nit_upper_layer" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Верхний слой
+]]></phrase>
+  <phrase title="xfa_nit_upper_layer_animate" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Анимация верхнего слоя]]></phrase>
+  <phrase title="xfa_nit_upper_layer_color" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Цвет верхнего слоя]]></phrase>
+  <phrase title="xfa_nit_upper_layer_transform" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Преобразование верхнего слоя]]></phrase>
+  <phrase title="xfa_nit_use_default_xf_icons" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Использовать иконки XenForo Node по умолчанию
+]]></phrase>
+  <phrase title="xfa_nit_use_font_awesome_icons" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Использовать Font Awesome иконки узлов
+]]></phrase>
+  <phrase title="xfa_nit_use_latest_poster_avatar" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Использовать аватар последнего поста]]></phrase>
+  <phrase title="xfa_nit_use_server_icons" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Использовать иконки с сервера
+]]></phrase>
+  <phrase title="xfa_nit_use_sprite_url" addon_id="XFA/NodesIconTweak" version_id="903000099" version_string="3.0.0"><![CDATA[Использовать URL-адрес спрайта (Не использовать для уровня под-форумов n > 2)]]></phrase>
+</language>

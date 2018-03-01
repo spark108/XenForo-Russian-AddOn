@@ -12,3 +12,4 @@ Russian translation for XenForo 2.0 AddOns. Foreigners here obviously have nothi
 	* [Q&AForums](ThemeHouse/Q&AForums) Версия: 1.0.5
 * [XFA](XFA)
 	* [Core](XFA/Core) Версия: 1.1.1
+	* [NodesIconTweak](XFA/NodesIconTweak) Версия: 3.0.0
