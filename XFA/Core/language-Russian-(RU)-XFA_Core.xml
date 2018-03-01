@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="&quot;{value}&quot; рублей" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="XFA/Core" export_version="2">
+  <phrase title="xfa_core_admin_fees" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Административные сборы]]></phrase>
+  <phrase title="xfa_core_api_config" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[API конфигурация]]></phrase>
+  <phrase title="xfa_core_api_config_explain" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Введите имя файла конфигурации для использования с этим профилем платежа. Файл должен находиться в папке src/addons/xfa/core/paypal_config.]]></phrase>
+  <phrase title="xfa_core_days" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Дней]]></phrase>
+  <phrase title="xfa_core_error_initiating_paypal_communication" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Мы не смогли инициализировать связь с Paypal, пожалуйста, свяжитесь с нашим персоналом.]]></phrase>
+  <phrase title="xfa_core_error_processing_payment" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Произошла ошибка при обработке вашего платежа]]></phrase>
+  <phrase title="xfa_core_hours" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Часов]]></phrase>
+  <phrase title="xfa_core_minutes" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Минут]]></phrase>
+  <phrase title="xfa_core_paypal_primary_account_explain" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Это основной адрес электронной почты в вашей учетной записи PayPal. Если это неверно, платежи не могут быть успешно обработаны. Обратите внимание, что это должна быть учетная запись Premier или Business Paypal, и IPN должны быть включены. <br />
+Для наших аддонов, в которых используется процентная функция продажи, это может использоваться как электронное письмо для процентных ставок («может» некоторые из наших надстроек позволяют переопределять категорию).]]></phrase>
+  <phrase title="xfa_core_purchase" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Покупка]]></phrase>
+  <phrase title="xfa_core_redirecting_to_paypal" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Перенаправление на PayPal]]></phrase>
+  <phrase title="xfa_core_seconds" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Секунд]]></phrase>
+  <phrase title="xfa_core_select_display_order" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Выбрать порядок отображения]]></phrase>
+  <phrase title="xfa_core_type_to_filter" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Тип фильтра]]></phrase>
+  <phrase title="xfa_core_you_must_provide_valid_configuration_file_for_this_payment" addon_id="XFA/Core" version_id="901010190" version_string="1.1.1"><![CDATA[Вы должны предоставить действительный файл конфигурации для этого профиля платежей.]]></phrase>
+</language>
