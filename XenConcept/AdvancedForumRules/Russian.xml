@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="&quot;{value}&quot; RUB" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="XenConcept/AdvancedForumRules" export_version="2">
+  <phrase title="admin_navigation.xcAdvancedForumRules" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Правила]]></phrase>
+  <phrase title="option.xc_advanced_forum_rules_reset_rules" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Сброс принятых правил]]></phrase>
+  <phrase title="option_explain.xc_advanced_forum_rules_reset_rules" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Заставит всех пользователей снова принять правила.]]></phrase>
+  <phrase title="option_group.xc_advanced_forum_rules" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[[XenConcept] Advanced Forum Rules]]></phrase>
+  <phrase title="option_group_description.xc_advanced_forum_rules" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[]]></phrase>
+  <phrase title="xc_advanced_forum_create_thread" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Создать тему]]></phrase>
+  <phrase title="xc_advanced_forum_rules" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Правила форума]]></phrase>
+  <phrase title="xc_advanced_forum_rules_accept" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Принять]]></phrase>
+  <phrase title="xc_advanced_forum_rules_before_accepting_rules_user_can_not" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[До принятия правил пользователь не может]]></phrase>
+  <phrase title="xc_advanced_forum_rules_create_new_rule" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Создать новое правило]]></phrase>
+  <phrase title="xc_advanced_forum_rules_edit_rule" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Изменить правило]]></phrase>
+  <phrase title="xc_advanced_forum_rules_excluded_forums" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Игнорировать форумы]]></phrase>
+  <phrase title="xc_advanced_forum_rules_excluded_usergroup" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Игнорировать группы пользователей]]></phrase>
+  <phrase title="xc_advanced_forum_rules_for_breaking_above_rules_you_may_be_warned_banned_appropriately" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[При нарушении правил вы можете быть предупреждены/заблокированы соответствующим образом!]]></phrase>
+  <phrase title="xc_advanced_forum_rules_forum_rules" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Правила форума]]></phrase>
+  <phrase title="xc_advanced_forum_rules_i_have_read_and_agree_to_the_terms_and_rules" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Я прочитал и согласен с условиями и правилами.]]></phrase>
+  <phrase title="xc_advanced_forum_rules_no_rule_have_been_created" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Правило не создано.]]></phrase>
+  <phrase title="xc_advanced_forum_rules_rules" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Правила]]></phrase>
+  <phrase title="xc_advanced_forum_rules_seconds_to_wait_before_accept_button_is_clickable" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Секунды ожидания перед нажатием кнопки «Принять» («0» для отключения счетчика).]]></phrase>
+  <phrase title="xc_advanced_forum_rules_wait_time" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Время ожидания]]></phrase>
+  <phrase title="xc_advanced_forum_viewing_forum" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Просмотр форума]]></phrase>
+  <phrase title="xc_advanced_forum_viewing_thread" addon_id="XenConcept/AdvancedForumRules" version_id="2000200" version_string="2.0.2"><![CDATA[Просмотр темы]]></phrase>
+</language>
