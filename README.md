@@ -6,5 +6,7 @@ Russian translation for XenForo 2.0 AddOns. Foreigners here obviously have nothi
 Если есть желание принять участие в обновление перевода, то смело кидаем запросы на слияние, а так же запросы на перевод дургих плагинов не указанных в списке.
 
 **Плагины:**
-* [XenConcept](XenConcept)
+* [XenConcept](XenConcept) Версия: 2.0.2
 	* [AdvancedForumRules](XenConcept/AdvancedForumRules)
+* [ThemeHouse](ThemeHouse)
+	* [Q&AForums](ThemeHouse/Q&AForums) Версия: 1.0.5

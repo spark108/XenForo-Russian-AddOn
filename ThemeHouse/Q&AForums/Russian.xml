@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="&quot;{value}&quot; RUB" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="ThemeHouse/QAForums" export_version="2">
+  <phrase title="option.th_answeredPrefix_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000570" version_string="1.0.5"><![CDATA[Префикс темы с лучшим ответом]]></phrase>
+  <phrase title="option.th_defaultThreadView_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Просмотр темы по умолчанию]]></phrase>
+  <phrase title="option.th_qaPrefix_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000570" version_string="1.0.5"><![CDATA[Префикс тем]]></phrase>
+  <phrase title="option_explain.th_answeredPrefix_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000570" version_string="1.0.5"><![CDATA[Префикс тем, который будет применятся, если тема Q&A Forums имеет лучший ответ. <br />
+Примечание. Если этот префикс не доступен на форуме, то он не будет применятся к теме. Этот префикс так же будет перезаписывать уже установленные на тему Q&A Forums. Если префикс не выбран, то замена не будет произведенена.]]></phrase>
+  <phrase title="option_explain.th_defaultThreadView_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="option_explain.th_qaPrefix_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000570" version_string="1.0.5"><![CDATA[Префикс для тем Q&A Forums по умолчанию. <br />
+Примечание. Если этот префикс не доступен на форуме, то он не будет применен к теме, так же не будет применен, если пользовать установил свой префикс темы.]]></phrase>
+  <phrase title="option_group.th_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[[TH] Question & Answer Forums]]></phrase>
+  <phrase title="option_group_description.th_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="permission.forum_th_bestAnswerOwnThread" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[[TH] Q&A Forums: Отметить лучший ответ в своей теме]]></phrase>
+  <phrase title="permission.forum_th_viewVotes" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[[TH] Q&A Forums: Просмотр комментариев]]></phrase>
+  <phrase title="permission.forum_th_voteAnswer" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[[TH] Q&A Forums: Голосовать за ответ]]></phrase>
+  <phrase title="permission.forum_th_voteAnswerOwnThread" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[[TH] Q&A Forums: Голосовать за ответ в своей теме]]></phrase>
+  <phrase title="style_prop.th_bestAnswerButtonClass_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Класс кнопки "Лучший ответ"]]></phrase>
+  <phrase title="style_prop.th_bestAnswerButton_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Кнопка лучшего ответа]]></phrase>
+  <phrase title="style_prop.th_bestAnswerButton_selected_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Кнопка лучшего ответа (Выбрано)]]></phrase>
+  <phrase title="style_prop.th_bestAnswerStyling_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Лучший ответ]]></phrase>
+  <phrase title="style_prop.th_downVoteButtonClass_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Класс кнопки "Дизлайк"]]></phrase>
+  <phrase title="style_prop.th_qaControls_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Q&A Управления]]></phrase>
+  <phrase title="style_prop.th_upVoteButtonClass_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Класс кнопки "Лайк"]]></phrase>
+  <phrase title="style_prop.th_voteButton_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Кнопка голосования]]></phrase>
+  <phrase title="style_prop.th_voteCount_negative_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Количество голосов (Неготивно)]]></phrase>
+  <phrase title="style_prop.th_voteCount_positive_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Количество голосов (Положительно)]]></phrase>
+  <phrase title="style_prop.th_voteCount_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Количество голосов]]></phrase>
+  <phrase title="style_prop.th_votebutton_voted_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Кнопка голосования (Выбрано)]]></phrase>
+  <phrase title="style_prop_desc.th_bestAnswerButtonClass_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_bestAnswerButton_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_bestAnswerButton_selected_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_bestAnswerStyling_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Стили применяются к посту с лучшим ответом]]></phrase>
+  <phrase title="style_prop_desc.th_downVoteButtonClass_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_qaControls_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_upVoteButtonClass_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_voteButton_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_voteCount_negative_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_voteCount_positive_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_voteCount_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.th_votebutton_voted_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_group.th_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[[TH] Question & Answer Forums]]></phrase>
+  <phrase title="style_prop_group_desc.th_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[]]></phrase>
+  <phrase title="th_add_question_status_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[Добавить статус вопроса]]></phrase>
+  <phrase title="th_ask_question_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Задайте вопрос]]></phrase>
+  <phrase title="th_best_answer_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Лучший ответ]]></phrase>
+  <phrase title="th_best_answers_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[Лучшие ответы]]></phrase>
+  <phrase title="th_down_vote_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Отрицательно]]></phrase>
+  <phrase title="th_down_vote_this_answer_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Проголосовать за этот ответ отрицательно.]]></phrase>
+  <phrase title="th_force_threads_created_in_this_forum_to_use_qa_format_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Создавать темы на этом форуме с использованием Q&A формата]]></phrase>
+  <phrase title="th_forum_is_a_question_answer_forum_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Этот форум является форумом для вопросов и ответов]]></phrase>
+  <phrase title="th_log_in_or_sign_up_to_vote_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Вы должны войти или зарегистрироваться, чтобы проголосовать.]]></phrase>
+  <phrase title="th_mark_as_best_answer_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Отметить как лучший ответ]]></phrase>
+  <phrase title="th_members_who_voted_on_message_x_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Пользователи проголосовавшие за сообщение #{position}]]></phrase>
+  <phrase title="th_no_permission_to_vote_answer_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[У вас нет разрешения голосовать за этот ответ.]]></phrase>
+  <phrase title="th_qa_forums_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[Q&A Форумы]]></phrase>
+  <phrase title="th_rebuild_post_vote_caches_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Перестроить кеши для голосования]]></phrase>
+  <phrase title="th_rebuild_user_vote_caches_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Перестроить кэш голосования пользователя]]></phrase>
+  <phrase title="th_remove_question_status_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[Удалить статус вопроса]]></phrase>
+  <phrase title="th_remove_your_down_vote_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Убрать свой отрицательный голос]]></phrase>
+  <phrase title="th_remove_your_up_vote_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Убрать свой положительный голос]]></phrase>
+  <phrase title="th_sort_by_date_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Сортировка по дате]]></phrase>
+  <phrase title="th_sort_by_votes_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Сортировка по голосам]]></phrase>
+  <phrase title="th_thread_answered_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Решено]]></phrase>
+  <phrase title="th_thread_is_a_question_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Тема является вопросом]]></phrase>
+  <phrase title="th_unanswered_thread_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Нет решения]]></phrase>
+  <phrase title="th_unmark_as_best_answer_qaForum" addon_id="ThemeHouse/QAForums" version_id="1000470" version_string="1.0.4"><![CDATA[Снять отметку лучший ответ]]></phrase>
+  <phrase title="th_up_vote_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Положительно]]></phrase>
+  <phrase title="th_up_vote_this_answer_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Проголосовать за этот ответ положительно.]]></phrase>
+  <phrase title="th_user_has_at_least_x_vote_points_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[У пользователя есть не менее X баллов]]></phrase>
+  <phrase title="th_user_has_had_at_least_x_best_answers_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[У пользователя было как минимум X лучших ответов]]></phrase>
+  <phrase title="th_user_has_had_no_more_than_x_best_answers_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[У пользователя было не более X лучших ответов]]></phrase>
+  <phrase title="th_user_has_no_more_than_x_vote_points_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Пользователь имеет не более X баллов]]></phrase>
+  <phrase title="th_user_has_received_at_least_x_down_votes_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Пользователь получил X отрицательных голосов]]></phrase>
+  <phrase title="th_user_has_received_at_least_x_up_votes_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Пользователь получил X положительных голосов]]></phrase>
+  <phrase title="th_user_has_received_no_more_than_x_down_votes_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Пользователь получил не более X голосов]]></phrase>
+  <phrase title="th_user_has_received_no_more_than_x_up_votes_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Пользователь получил не более X голосов]]></phrase>
+  <phrase title="th_x_has_marked_your_post_in_thread_y_as_the_best_answer_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[{name} отметил ваше сообщение в теме {title} как лучший ответ.]]></phrase>
+  <phrase title="th_x_points_y_up_votes_z_down_votes_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Всего голосов: {normalized} | Положительно: {up_votes} | Отрицательно: {down_votes}]]></phrase>
+  <phrase title="th_x_votes_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[{count} голосов]]></phrase>
+  <phrase title="widget_def.th_unanswered_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[[TH] Q&A Forums: Вопросы без ответов]]></phrase>
+  <phrase title="widget_def_desc.th_unanswered_qaForums" addon_id="ThemeHouse/QAForums" version_id="1000391" version_string="1.0.3 Patch Level 1"><![CDATA[Вопрсы которые еще не получили ответ]]></phrase>
+</language>
