@@ -14,4 +14,4 @@ Russian translation for XenForo 2.0 AddOns. Foreigners here obviously have nothi
 	* [Core](XFA/Core) Версия: 1.1.1
 	* [NodesIconTweak](XFA/NodesIconTweak) Версия: 3.0.0
 * [8WAYRUN](8WAYRUN)
-	* [XenPorta 2](8WAYRUN/XenPorta2) Версия: 2.0.1.5
+	* [XenPorta 2](8WAYRUN/XenPorta2) Версия: 2.0.1.8
